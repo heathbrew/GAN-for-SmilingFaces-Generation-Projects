@@ -1,4 +1,5 @@
 # Generative Adversarial Network (GAN) for Smiling Face Generation
+![image](https://github.com/heathbrew/Generative-Adversarial-Network-GAN-for-MNIST-Digit-Generation-Projects/assets/55629425/e474cbc8-7ba7-425c-b1a4-3f40e7e090bf)
 
 ## Problem Statement
 
