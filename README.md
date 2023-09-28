@@ -41,4 +41,4 @@ The project aims to achieve the following observations:
 
 ## Link to Project Repository
 
-You can find the project repository [here](https://github.com/heathbrew/Build-Basic-Generative-Adversarial-Networks-GANs-/blob/main/5.C1W4B_Controllable_Generation.ipynb).
+You can find the project repository [here]([https://github.com/heathbrew/Build-Basic-Generative-Adversarial-Networks-GANs-/blob/main/5.C1W4B_Controllable_Generation.ipynb](https://github.com/heathbrew/Generative-Adversarial-Network-GAN-for-MNIST-Digit-Generation-Projects/blob/main/5.C1W4B_Controllable_Generation.ipynb)https://github.com/heathbrew/Generative-Adversarial-Network-GAN-for-MNIST-Digit-Generation-Projects/blob/main/5.C1W4B_Controllable_Generation.ipynb).
